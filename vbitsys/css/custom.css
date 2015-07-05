@@ -1,0 +1,27 @@
+/* CSS Document */
+.contacttext{
+	width: 100%;
+	padding: 3.5% 0;
+	margin-bottom: 7%;
+	color: #333333;
+	font-size:18px;
+	outline: none;
+	font-weight:400;
+	text-indent: 18px;
+	border:1px solid#000;
+	border-top: none;
+}
+.contacttextarea {
+	resize:none;
+	width: 100%;
+	padding: 2% 0;
+	margin-bottom: 5%;
+	color: #333333;
+	font-size:18px;
+	outline: none;
+	font-weight:400;
+	text-indent: 18px;
+	border:1px solid#000;
+	min-height: 250px;
+	border-top: none;
+}
